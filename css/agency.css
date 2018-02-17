@@ -8,15 +8,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #271B23;
 }
 
 a:hover {
-  color: #fec503;
+  color: #271B23;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #271B23 !important;
 }
 
 h1,
@@ -65,13 +65,13 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #271B23;
+  border-color: #271B23;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #271B23 !important;
+  border-color: #271B23 !important;
   color: white;
 }
 
@@ -80,12 +80,12 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #271B23;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #271B23;
   text-shadow: none;
 }
 
@@ -108,17 +108,17 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #fed136;
+  background-color: #271B23;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: #271B23;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #271B23;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -131,7 +131,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #271B23;
 }
 
 @media (min-width: 992px) {
